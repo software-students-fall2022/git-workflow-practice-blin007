@@ -8,3 +8,6 @@ This author of this article makes an interesting analogy between software engine
 
 Personally, I am the type of person who wants to avoid mistakes at all costs because I hate dealing with them. And I think a lot of other people are like that too. But from my past experience, I found that I learn the most whenever I make a mistake and fix it. So rather then trying to avoid mistakes, I should be embracing them instead.
 
+## Comment
+Darren Le: I think the article offers an interesting perspective on the nature of software engineering as a discipline. Engineers are often operating at a disadvantage and will have to tackle many problems that are often unsolvable within business constraints. The mindset of "embracing your mistakes" is perhaps a more realistic view of software engineering as an everyday job than the often perfectionist goals we have in school.
+
